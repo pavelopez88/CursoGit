@@ -11,3 +11,5 @@ validaciones crud
 mejoras visuales
 
 correcion alta y edicion
+
+correccion baja y validaciones
