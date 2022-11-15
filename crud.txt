@@ -1,0 +1,13 @@
+nuevo archivo crud
+
+agregando altas
+
+bajas crud
+
+edicion crud
+
+validaciones crud
+
+mejoras visuales
+
+correcion alta y edicion
