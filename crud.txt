@@ -13,3 +13,5 @@ mejoras visuales
 correcion alta y edicion
 
 correccion baja y validaciones
+
+correccion redireccion altas
