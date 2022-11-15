@@ -9,3 +9,5 @@ edicion crud
 validaciones crud
 
 mejoras visuales
+
+correcion alta y edicion
