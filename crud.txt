@@ -5,3 +5,5 @@ agregando altas
 bajas crud
 
 edicion crud
+
+validaciones crud
